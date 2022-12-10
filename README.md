@@ -10,4 +10,5 @@ Common Git Commands
 5) git branch
 6) git branch branchname
 7) git merge branchName
+8) git pull
 
