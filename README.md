@@ -11,4 +11,7 @@ Common Git Commands
 6) git branch branchname
 7) git merge branchName
 8) git pull
+9) git tag -l 
+10) git tag x.y.z
+11) git push --tag 
 
